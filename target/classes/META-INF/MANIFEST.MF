@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: Spring-file-rest-valid-demo-example
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: MAHENDRA
+Implementation-Vendor-Id: com.demo
+Build-Jdk: 1.8.0_202
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/Spring-file-rest-valid-demo-example
+Created-By: Maven Integration for Eclipse
+
